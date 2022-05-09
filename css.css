@@ -1,4 +1,5 @@
 /* This isn't part of JetBrains Mono, but rather a utility file for simply importing it into a website */
+/* @import url("https://yieldingexploiter.github.io/JBMono/css.css"); */
 @font-face {
   font-family: 'JBMono';
   src: url('https://yieldingexploiter.github.io/JBMono/fonts/variable/JetBrainsMono%5Bwght%5D.ttf');

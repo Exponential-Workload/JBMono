@@ -1,5 +1,11 @@
 /* This isn't part of JetBrains Mono, but rather a utility file for simply importing it into a website */
 @font-face {
   font-family: 'JBMono';
+  src: url('https://yieldingexploiter.github.io/JBMono/fonts/variable/JetBrainsMono%5Bwght%5D.ttf');
+  font-style: normal;
+}
+@font-face {
+  font-family: 'JBMono';
   src: url('https://yieldingexploiter.github.io/JBMono/fonts/variable/JetBrainsMono-Italic%5Bwght%5D.ttf');
+  font-style: italic;
 }
